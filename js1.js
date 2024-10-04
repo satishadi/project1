@@ -1,3 +1,4 @@
 console.log("add a new file in js1 from js folder ");
-
-console.log("this is js file one");
+var a = 90;
+console.log("this is js file one" + a);
+confirm.log("satish is a good boy");
